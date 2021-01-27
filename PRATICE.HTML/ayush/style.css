@@ -1,0 +1,42 @@
+*{
+    background-color: aqua;
+    color: aliceblue;
+    background-image: url(itl.cat_black-and-white-nature_1851645.png);
+    font-family: "Century gothic", Arial, sans-serif;
+}
+.kuch bhi{
+    text-align: center;
+    box-sizing: border-box;
+    border: solid 2px;
+}
+
+.father{
+    width:150px;
+    position: fixed;
+    right:20px;
+    top:308px;
+    overflow: hidden;
+    height:auto;
+    padding: 1%;
+    border: solid 2px rgb(100, 149, 237);
+    box-sizing: border-box;
+    border-radius: 24px;
+    transform: translate(-40%,-00%);
+    box-shadow: 0 0 5px rgb(100, 149, 237),
+                0 0 0px rgb(100, 149, 237),
+                0 0 20px rgb(100, 149, 237),
+                0 0 5px rgb(100, 149, 237);
+    
+
+
+}
+    
+
+    
+
+
+
+
+
+
+}

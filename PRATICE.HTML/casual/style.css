@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, verdana, sans-serif;
+    font-style: italic;
+    background-color:burlywood;
+    
+}
+
+h1{
+    font-size: 50px;
+    text-transform:lowercase;
+    text-align:center;
+    vertical-align:text-bottom;
+    text-indent: -9999;
+    
+
+    
+
+    
+    
+    
+}
+p.credits{
+    color:aqua;
+    font-weight: bold;
+    text-transform:uppercase;
+    word-spacing: 60px;
+    text-indent: 20px;
+    text-shadow: -1px -2px 7px;
+    
+
+}
+p.intro{
+    color: brown;
+    font-size: 40px;
+    text-transform:capitalize;
+    text-orientation: upright;
+    line-height: 1.4em;
+    word-spacing: 40px;
+    text-indent: -9999;
+    text-shadow: -3px -4px  #ffffff;
+}
+p.intro:first-letter{
+    font-size: 90px;
+}
+p.intro::first-line{
+    font-weight: bolder;
+}
